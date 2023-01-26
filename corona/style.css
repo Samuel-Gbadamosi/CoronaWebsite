@@ -6,7 +6,7 @@
 
 .myheader{
     height: 70px;
-    background-color: red;
+    background-color: #ED242E;
 }
 
 .gt{
@@ -66,8 +66,8 @@
 }
 
 .sect2{
-    height: 500px;
-    background-color: orange;
+    height: 800px;
+    background-color:#e9e4e4;
 }
 
 .goli{
@@ -102,7 +102,7 @@
     line-height: 1.8;
 }
 
-.goli button{
+.readmore{
     background-color: #09254D;
     height: 70px;
     width:50%;
@@ -110,4 +110,11 @@
     border: 2px solid #09254D;
     font-weight: 800;
 
+}
+
+.byt::before{
+    content : "";
+    background-image: url('./log.png');
+    
+    
 }
