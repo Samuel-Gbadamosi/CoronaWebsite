@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.myheader{
+    height: 80px;
+    background-color: red;
+}
+
+.gt{
+    list-style: none;
+    font-size: 18px;
+    color: white;
+}
+
+.guy{
+    background-color: #031329;
+}
+
+.sect1{
+    background-image: url('./banner.png');
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+}
+
+.mine{
+    height: 400px;
+    width: 600px;
+    margin-left: 93px;
+}
+.mine h2{
+    font-size: 90px;
+    color: white;
+    font-weight: 700;
+    line-height: 0.9;
+}
