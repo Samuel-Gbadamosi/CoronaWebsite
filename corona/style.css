@@ -71,7 +71,7 @@ main{
 
 .sect2{
     height: 800px;
-    background-color:#e9e4e4;
+    background-color:#f3efef;
 }
 
 .goli{
@@ -136,3 +136,44 @@ main{
 
 
 
+.jojo{
+    text-transform: uppercase;
+    font-size: 45px;
+    color: #353d47;
+    font-weight: 700;
+}
+
+.jojo p{
+    color: red;
+}
+
+.sect6{
+    height: 450px;
+    background-color: #f3efef;
+}
+
+.jumi{
+    background-image: url('jumi2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    height: 400px;
+    width: 90%;
+    border-radius:70px;
+    margin-left: 70px;
+
+}
+
+.box1{
+    height: 268px;
+    background-color: white;
+    width: 361px;
+    border-radius: 25px;
+    position: relative;
+    top: 44px;
+    left:36px;
+}
+.box1 p{
+    font-size: 14px;
+    font-weight: 500;
+}
