@@ -227,6 +227,26 @@ main{
 }
 
 .bond{
-    height: 200px;
-    background-color: red;
+    height: 300px;
+    background-image: url('./po.jpeg');
+    background-position: top;
+
 }
+
+.grt {
+    background-color: #f8f8f800;
+    width: 90%;
+    height: 80px;
+    border-radius: 30px;
+    border: 6px solid white;
+
+}
+
+
+::placeholder {
+    color: white;
+    font-weight: 900;
+    padding-left: 20px;
+    
+    opacity: 1; /* Firefox */
+  }
