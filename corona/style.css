@@ -262,3 +262,28 @@ main{
       color: white;
       font-weight: 600;
   }
+
+  .myfoot{
+      height: 300px;
+      background-color: black;
+      padding-top: 49px;
+  }
+
+  .myfoot ul{
+      color: #979793;
+      list-style: none;
+  }
+
+  .myfoot p{
+      color: white;
+      padding: 23px;
+  }
+
+
+  .myfoot h5{
+      font-size: 25px;
+      color: white;
+      font-weight: 700;
+      text-transform: uppercase;
+      padding-left: 32px;
+  }
