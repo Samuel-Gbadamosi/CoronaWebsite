@@ -223,6 +223,7 @@ main{
 
 .mycolor{
     background-color: #f3efef;
+    padding: 17px;
 
 }
 
@@ -249,4 +250,16 @@ main{
     padding-left: 20px;
     
     opacity: 1; /* Firefox */
+  }
+
+  .lop{
+      font-size: 30px;
+      height: 82px;
+      width: 43%;
+      background-color: #0a264a;
+      border-radius: 25px;
+      border: none;
+      margin-top: 27px;
+      color: white;
+      font-weight: 600;
   }
