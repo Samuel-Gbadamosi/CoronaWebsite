@@ -215,3 +215,18 @@ main{
     margin: o auto;
     background: url('./lgo.png');
 }
+
+.sect09{
+    height: 600px;
+    background-color: #f3efef;
+}
+
+.mycolor{
+    background-color: #f3efef;
+
+}
+
+.bond{
+    height: 200px;
+    background-color: red;
+}
