@@ -258,8 +258,8 @@
                 <div class="col-3">
                     <div class="jub case ">
                         <img style="height: 200px; " src="nurse.png" alt="">
-                        <button class="read">ABOUT MORE</button>
-                        <h3 class="text-center">Cases 01</h3>
+                        <button class="read" onclick="onclic()">ABOUT MORE</button>
+                        <h3 class="text-center " id="pippo">Cases 01</h3>
                         <p class="text-center" >It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look</p>
                         <div class="nostrud">
 
@@ -267,6 +267,28 @@
 
                         
 
+                        <script>
+                           
+
+
+                            function onclic(){
+                               var guestname = prompt('what is your name ?');
+
+                                if(guestname){
+                                     document.getElementById('pippo').innerText = guestname;
+
+
+                                }
+
+
+                                
+                                
+
+                                
+
+ 
+                            }
+                        </script>
                         
                     </div>
 
@@ -336,8 +358,6 @@
                     <img src="world.png" alt="">
 
                 </div>
-                
-
             </div>
 
         </div>
