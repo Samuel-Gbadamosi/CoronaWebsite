@@ -21,6 +21,7 @@ main{
 .gt li a{
     color: white;
     font-size: 18px;
+    text-transform: uppercase;
 }
 
 .guy{

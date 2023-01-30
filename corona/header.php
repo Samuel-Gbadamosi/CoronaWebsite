@@ -12,8 +12,8 @@
                     <li><a href="takeaction.php">Take Action</a></li>
                     <li><a href="">COVIDO</a></li>
                     <li><a href="news.php">NEWS</a></li>
-                    <li>DOCTORS</li>
-                    <li>CONTACT</li>
+                    <li> <a href="">DOCTORS</a></li>
+                    <li><a href="">Contact</a></li>
                 </ul>
 
             </div>
