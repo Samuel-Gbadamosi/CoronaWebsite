@@ -15,8 +15,12 @@ main{
 
 .gt{
     list-style: none;
-    font-size: 18px;
+    
+}
+
+.gt li a{
     color: white;
+    font-size: 18px;
 }
 
 .guy{
