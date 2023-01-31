@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -187,7 +186,6 @@
 
         </section>
                 <!-- section6  ends here -->
-
         <section class=" pt-4 mycolor" >
             <div class="row text-center">
                 <h1 class="jojo">CORONOVIRUS CASES</h1>
@@ -221,10 +219,6 @@
                         <div class="nostrud">
 
                         </div>
-
-                        
-
-                        
                     </div>
                     
 
@@ -300,7 +294,6 @@
     <footer class="container-fluid">
        <?php include('footer.php'); ?>
         <!-- row myfoot ends here -->
-
     </footer>
     <!-- footer ends here -->
      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
